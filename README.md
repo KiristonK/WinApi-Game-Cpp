@@ -1,2 +1,2 @@
 # WinApi-Game-C-
-R-restart, wsad or arrowa,  f - fight
+R-restart, wsad or arrows - mowing,  f - fight
